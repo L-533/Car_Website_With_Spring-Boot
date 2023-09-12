@@ -2,7 +2,7 @@
 
 It works as a vehicle sales page, where you can find relevant information about the company such as the different models it offers.
 
-Technologies used: HTML,CSS. <br/>
+Technologies used: HTML, CSS, Java. <br/>
 Frameworks used: Spring-Boot, Bootstrap. <br/>
 It has a responsive design. <br/>
 
