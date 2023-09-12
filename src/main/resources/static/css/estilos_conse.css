@@ -1,0 +1,493 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+body{
+	background: url(8-85556_silver-mat-color.jpg) no-repeat center top;
+ /*background-size: cover;*/
+
+}
+
+.container{
+	height: 100%;
+	width:100%;
+	align-items: center;
+	padding-left:5px; 
+	
+	
+}
+
+
+h3{
+
+	padding-top: 10px;
+}
+
+
+
+main{
+	padding-top:2rem;
+	z-index: 2;
+	background: 
+	
+	min-width: 250px;
+
+
+}
+
+
+
+.colm{
+	margin: 0 auto;
+	
+	height: 100%;
+	position:relative;
+	align-items: center;
+	align-content: center;
+	
+	background: black;
+	
+	background: url(8-85556_silver-mat-color.jpg);
+
+}
+
+
+.colm h2{
+	font-size: 25px;
+	color: white;
+
+}
+
+
+.colm pre{
+	text-align:justify;
+	align-content: center;
+	font-size: 15px;
+	position: relative;
+	text-align: center;
+
+}
+
+
+#imgcons{
+
+	position: relative;
+	height: 40%;
+	width: 70%;
+}
+h1{
+	
+	width: 100%;
+	margin-right: 50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+	background: lightblue;
+}
+
+img{
+	float-left;
+	height:120px;
+	width: 200px;
+	margin:auto;
+	position:relative;
+	
+}
+
+img.logo{
+	float-left;
+	height: 80px;
+	width: 160px;
+	margin-top: 10px;
+
+	
+}
+
+
+#imgfooter{
+	height:40px;
+	width: 35px;
+	margin-right: 5px;
+
+}
+
+
+
+/*BOTONES*/
+
+.btn{
+	text-decoration: none;
+	border-radius: 1px;
+}
+
+.btn-green{
+	color:white;
+	background-color:#95A5A6;
+}
+
+/* FIN BOTONES*/
+
+.medio{
+	height:550px;
+	background: #333;
+	margin:0;
+	padding:0;
+	margin: 0 auto;
+}
+
+.medio iframe{
+	margin: 0 auto;
+	position:relative;
+	background-position: center;
+	height: 100%;
+	width: 100%
+	}
+
+
+#iframeM{
+	position:relative;
+	align-items: center;
+}
+
+
+.derecha{
+	position:relative;
+	background: #333;
+	height: 550px;
+
+}
+
+
+
+
+.nombres{
+
+	width:100%;
+	height: 10%;
+	margin-top:0;
+	background: lightblue;
+}
+
+.cuerpo{
+	padding-top: 25%;
+	position: relative;
+	width: 100%;
+	height: 70%;
+	/*background: grey;*/
+
+
+
+}
+
+.cuerpo p{
+	font-family: georgia,times,san-serif;
+	font-size:15px;
+	color: white;
+
+}
+.cuerpo p::first-letter{
+	font-size: 20px;
+	color:lightblue;
+}
+
+.comprar{
+	position:relative;
+	width: 100%;
+
+	height:20%;
+	
+}
+.comprar button{
+	position:relative;
+	background: lightgreen;
+	height: 65%;
+	bottom:0;
+	width: 100%;
+	
+	
+}
+.comprar h2{
+
+	font-family: georgia,times,san-serif;
+	font-size:25px;
+	color: white;
+}
+
+
+
+
+.logo-nav-container{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+
+
+
+		}
+
+		#navigation ul li a{
+			display:block;
+			
+			transition:all 0.4s linear;
+			border-radius:5px;
+
+			
+
+		}
+		#navigation ul li a:hover {
+
+			background: #999999;
+		}
+
+
+
+
+/*FOTTER*/
+footer{
+	width:100%;
+	background: #333;
+	color:white;
+	height: 35%;
+	margin-bottom: 5px;
+	margin-top:10px;
+	position: relative;
+
+}
+
+
+
+#imgfooter {
+    max-width: 25px; 
+    height: auto; 
+    margin-right: 10px; 
+}
+
+
+
+.piepag{
+	position: relative;
+	margin:auto;
+	display:flex;
+	align-items:center;
+	justify-content: space-between;
+}
+
+
+
+.columna1{
+	max-width: 300px;
+
+	
+}
+
+.columna1 h2{
+	font-size:20px;
+	margin-top:0;
+
+}
+
+.columna1 p{
+	font-size:15px;
+	color:white;
+	margin-top:20px;
+}
+
+.columna2{
+	margin-top: 10px;
+	max-width: 200px;
+	margin-right: 50px;
+}
+
+.columna2 h2{
+	font-size:20px;
+
+}
+
+.columna2 a{
+	font-size:15px;
+	color:white;
+}
+.columna2.row{
+	margin-top: 20px;
+	display:flex;
+	margin-right: 10px;
+}
+
+.columna3 h2{
+	font-size:20px;
+	margin-right: 50px;
+	margin-top: 0;
+}
+
+
+.columna3 a{
+	font-size:15px;
+	color:white;
+}
+
+
+.columna3 label{
+	font-size: 15px;
+}
+/* ORDENAMIENTO DE PRODUCTOS */
+
+img.movilam{
+
+  margin-top: 35px;
+	width: 215px;
+	height: 115px;
+
+
+}
+
+img.am{
+
+  margin-top: 50px;
+	width: 215px;
+	height: 115px;
+
+
+}
+
+img.em{
+
+  margin-top: 40px;
+  width: 90%;
+
+}
+
+
+
+
+.carro{
+float: left;
+margin-left: 40px;
+}
+
+.carroMovil{
+float: left;
+margin-left: 0px;
+}
+
+
+.carroMovila{
+float: left;
+margin-top: 10px;
+margin-left: 10px;
+}
+
+
+
+
+figure {
+width: 200px;
+height: 200px;
+
+}
+
+figure.am {
+width: 180px;
+height: 180px;
+
+}
+
+
+
+figcaption {
+  
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+
+}
+
+figcaption.movilam {
+  
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+figcaption.am {
+  
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+  margin-top: 36px;
+}
+
+figcaption.em {
+  
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+  margin-top: 26px;
+}
+
+a.nav-link{
+	
+	font-family: georgia,times,san serif;
+	font-size: 25px;
+}
+
+a.nav-link:visited{
+	color: white;
+	font-family: georgia,times,san serif;
+	font-size: 30px;
+}
+
+
+.nav-item a{
+	color:white;
+	
+}
+
+.dropdown-menu a{
+	color: black;
+}
+
+
+.navbar-nav{
+
+background-color: black;
+
+
+}
+
+/* Termina */
+
+/*Estilos Nosotros*/
+.contenido{
+
+	word-wrap: break-word;
+	align-content: center;
+	position: relative;
+	width: 80%;
+	margin: 0 auto;
+	border­adius: 100%;
+	overflow: hidden;
+	padding-bottom: 20px;
+}
+
+.contenido p{
+	text-align: justify;
+
+}
+
+#btn_llamar{
+	position:relative;
+	height: 20%;
+	padding-bottom: 20px;
+}
+#llamar{
+	position:relative;
+	font-family: georgia,times,san serif;
+	font-size: 32px;
+	align-items: center;
+	height: 100%;
+	width: 100%;
+	background-color: lightblue;
+	padding-bottom: 80px;
+}
