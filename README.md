@@ -13,5 +13,5 @@ It has a responsive design. <br/>
 ![image](https://github.com/L-533/Car_Website_With_Spring-Boot/assets/98188267/b1082c8b-079e-44e7-a72f-74c15b294c76)
 </br>
 Responsive Desing:</br>
-![image](https://github.com/L-533/Car_Website_With_Spring-Boot/assets/98188267/deead7dd-fb76-4fb5-a2f6-b11b89f166f6)
+<img src="https://github.com/L-533/Car_Website_With_Spring-Boot/assets/98188267/deead7dd-fb76-4fb5-a2f6-b11b89f166f6" alt="image" width="350" height="900" >
 
