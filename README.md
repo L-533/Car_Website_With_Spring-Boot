@@ -17,5 +17,5 @@ Vehiculos page:
 
 </br>
 Responsive Desing:</br>
-<img src="https://github.com/L-533/Car_Website_With_Spring-Boot/assets/98188267/deead7dd-fb76-4fb5-a2f6-b11b89f166f6" alt="image" width="350" height="900" >
+<img src="https://github.com/L-533/Car_Website_With_Spring-Boot/assets/98188267/deead7dd-fb76-4fb5-a2f6-b11b89f166f6" alt="image" width="325" height="1000" >
 
